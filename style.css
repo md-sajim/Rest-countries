@@ -1,0 +1,14 @@
+#rest-div {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+.country {
+  border: 3px solid goldenrod;
+  background-color: aquamarine;
+  border-radius: 20px;
+  margin: 15px;
+  padding: 15px;
+}
+.country img {
+  width: 400px;
+}
